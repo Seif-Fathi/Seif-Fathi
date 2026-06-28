@@ -18,11 +18,11 @@ I'm a **Python Developer & Data Analyst** specializing in Business Intelligence 
 * **[Olist E2E Analytics Pipeline](https://www.kaggle.com/code/seiffathi/olist-e2e-analytics-pipeline-python-sql-power-bi)**
   An end-to-end data analytics project integrating Python, SQL Server, and Power BI to analyze e-commerce performance.
 
-  * **[Transcripta - Speech-to-Text App]**
+* **[Transcripta - Speech-to-Text App]**
   A privacy-focused desktop application for offline speech-to-text processing using Whisper AI.
 
 ### Connect with me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seif.fathi22@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](seif.fathi22@gmail.com)
 <!---
 Seif-Fathi/Seif-Fathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
