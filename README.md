@@ -4,7 +4,7 @@ I'm a **Python Developer & Data Analyst** specializing in Business Intelligence 
 
 
 - Currently focusing on Advanced Data Analytics, Machine learning, Automation, and Local AI tools. 
-- Ask me about: **Python (Pandas/Numpy), SQL , and Power BI**.
+- Ask me about: **Python , SQL , and Power BI**.
 - How to reach me seif.fathi22@gmail.com , phone No: +201112158797
 
 - ### Tech Stack & Tools
