@@ -34,6 +34,7 @@ I'm a **Python Developer** and **Data Analyst** passionate about building end-to
 - DAX
 - Power Query (M)
 - Excel
+- Interactive Dashboard Development
 
 **Databases**
 - SQL Server
