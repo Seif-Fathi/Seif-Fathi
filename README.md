@@ -17,7 +17,7 @@ I'm a **Python Developer & Data Analyst** specializing in Business Intelligence 
 * **[Olist E2E Analytics Pipeline](https://www.kaggle.com/code/seiffathi/olist-e2e-analytics-pipeline-python-sql-power-bi)**
   An end-to-end data analytics project integrating Python, SQL Server, and Power BI to analyze e-commerce performance.
 
-* **[Transcripta - Speech-to-Text App]**
+* **[Transcripta - Speech-to-Text App](https://github.com/Seif-Fathi/Transcripta-Lite)**
   A privacy-focused desktop application for offline speech-to-text processing using Whisper AI.
 
 ### Connect with me
