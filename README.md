@@ -53,9 +53,9 @@ I'm a **Python Developer** and **Data Analyst** passionate about building end-to
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seif-Fathi&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seif-Fathi&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seif-Fathi&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seif-Fathi&layout=compact&theme=default)
 <!---
 Seif-Fathi/Seif-Fathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
