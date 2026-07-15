@@ -14,16 +14,20 @@ I'm a **Python Developer** and **Data Analyst** passionate about building end-to
 - Python
 - SQL
 
-**Data Analytics**
-- Pandas
-- NumPy
-- SciPy
-- Statsmodels
+### Data Analytics
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Feature Engineering
+- Data Visualization
+- Business Insights & Reporting
 
-**Machine Learning**
-- Scikit-Learn
-- OpenCV
-- OpenAI Whisper
+### Machine Learning
+- Regression Models (Linear & Logistic Regression)
+- Classification
+- Clustering (K-Means)
+- Feature Engineering
+- Model Evaluation
 
 **Business Intelligence**
 - Power BI
