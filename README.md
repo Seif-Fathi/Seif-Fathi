@@ -50,7 +50,7 @@ I'm a **Python Developer** and **Data Analyst** passionate about building end-to
   An end-to-end data analytics project integrating Python, SQL Server, and Power BI to analyze e-commerce performance.
 
 * **[Transcripta - Speech-to-Text App](https://github.com/Seif-Fathi/Transcripta-Lite)**
-  A privacy-focused desktop application for offline speech-to-text processing using Whisper AI.
+  A modern open-source desktop application for offline multilingual speech-to-text transcription, featuring audio recording, Whisper model selection, CPU/GPU optimization, multi-language UI, and TXT/DOCX export.
 
 ### Connect with me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seif.fathi22@gmail.com)
