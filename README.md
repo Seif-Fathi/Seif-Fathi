@@ -46,7 +46,8 @@ I'm a **Python Developer** and **Data Analyst** passionate about building end-to
 - Jupyter
 
 ### Featured Projects
-* **[Olist E2E Analytics Pipeline](https://www.kaggle.com/code/seiffathi/olist-e2e-analytics-pipeline-python-sql-power-bi)**
+* **[Power BI Templates Library]()** Reusable Power BI templates designed for real-world business analytics, featuring advanced DAX, dynamic field parameters, Power Query (M), custom themes, GeoJSON-based mapping, and interactive dashboards.
+* **[Olist E2E Analytics Pipeline](https://github.com/Seif-Fathi/Olist-E2E-Data-Engineering-BI)**
   An end-to-end data analytics project integrating Python, SQL Server, and Power BI to analyze e-commerce performance.
 
 * **[Transcripta - Speech-to-Text App](https://github.com/Seif-Fathi/Transcripta-Lite)**
